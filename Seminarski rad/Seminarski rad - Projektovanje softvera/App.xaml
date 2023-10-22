@@ -1,0 +1,9 @@
+﻿<Application x:Class="Seminarski_rad___Projektovanje_softvera.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Seminarski_rad___Projektovanje_softvera"
+             StartupUri="LogIn.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

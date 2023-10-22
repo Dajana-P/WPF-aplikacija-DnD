@@ -1,0 +1,32 @@
+﻿<Window x:Class="Seminarski_rad___Projektovanje_softvera.Game"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Seminarski_rad___Projektovanje_softvera"
+        mc:Ignorable="d"
+        Title="Game" Height="720" Width="1280" Background="#FF4D4C7D">
+    <Grid>
+        <TextBlock x:Name="lbIme" HorizontalAlignment="Left" Margin="1068,593,0,0" Text="Ime" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.441,-0.021"/>
+        <TextBlock x:Name="lbHP" HorizontalAlignment="Left" Margin="1041,615,0,0" Text="HP" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lbDefense" HorizontalAlignment="Left" Margin="1153,615,0,0" Text="Defense" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lbMoney" HorizontalAlignment="Left" Margin="1235,593,0,0" Text="Money" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lbStrenght" HorizontalAlignment="Left" Margin="1070,635,0,0" Text="STR" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1017,615,0,0" Text="HP:" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.981,0.535"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1018,593,0,0" Text="Karakter" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1103,615,0,0" Text="Defense:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1191,593,0,0" Text="Money:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1017,635,0,0" Text="Strenght:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lbAtheltics" HorizontalAlignment="Left" Margin="1156,635,0,0" Text="ATH" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1103,635,0,0" Text="Athletics:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lbWisdom" HorizontalAlignment="Left" Margin="1068,657,0,0" Text="WIS" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1017,657,0,0" Text="Wisdom:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lbCharisma" HorizontalAlignment="Left" Margin="1160,657,0,0" Text="CHA" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1103,657,0,0" Text="Charisma:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Image x:Name="imgSlikaKaraktera" HorizontalAlignment="Left" Height="150" Margin="1078,441,0,0" VerticalAlignment="Top" Width="150" Source="/Images/Characters/Garen.png" Stretch="Fill"/>
+        <ListBox x:Name="listBoxLinije" Margin="0,475,544,10"/>
+        <ContentControl x:Name="contentControl" Content="ContentControl" HorizontalAlignment="Left" Margin="229,10,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="0,10,0,0" Text="DEMO Verzija" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="32" Foreground="#FFBD0606"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top" Height="37" Width="89"  Background="#FFE9D5DA" BorderBrush="#FF80558C" Click="btnBack_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Seminarski_rad___Projektovanje_softvera.SignIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Seminarski_rad___Projektovanje_softvera"
+        mc:Ignorable="d"
+         Title="SignIn" Height="450" Width="400"
+        Background="#4D4C7D">
+    <Grid>
+        <TextBlock x:Name="gornjiLabel" HorizontalAlignment="Center" Margin="0,46,0,0" Text="Sign In" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="36" FontWeight="Normal" Cursor="Arrow" Foreground="Black" Padding="20,10,20,10" Background="#FFE4D192" Width="250" TextAlignment="Center"/>
+        <TextBox x:Name="txtIme" HorizontalAlignment="Left" Margin="152,164,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFE4D192" BorderBrush="#FF80558C" FontFamily="Times New Roman" FontSize="16" FontStretch="Normal"/>
+        <TextBlock Text="Ime:" Height="20" Width="35"  HorizontalAlignment="Left" Margin="112,164,0,0" VerticalAlignment="Top" Foreground="#FFD8BBC3" FontFamily="Times New Roman" FontSize="16" FontStretch="Normal" FontStyle="Normal"/>
+        <PasswordBox x:Name="passBoxPassword" HorizontalAlignment="Left" Margin="152,206,0,0" VerticalAlignment="Top" Width="120" Background="#FFE4D192" BorderBrush="#FF80558C" FontFamily="Times New Roman" FontSize="16" FontStretch="Normal"/>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Center" Margin="0,360,0,0" VerticalAlignment="Top" Background="#FFE9D5DA" BorderBrush="#FF80558C" FontFamily="Times New Roman" FontSize="18" FontStretch="Normal" Cursor="Hand" RenderTransformOrigin="0.5,-1.456" Click="btnExit_Click" Width="94" Height="22"/>
+        <TextBlock x:Name="txtBlockPoruka" Text="Imaš nalog? Uloguj se!" HorizontalAlignment="Center" Margin="0,308,0,0" VerticalAlignment="Top" Foreground="#FFD8BBC3" FontFamily="Times New Roman" FontSize="14" FontStyle="Normal" TextDecorations="Underline" MouseDown="TextBlock_MouseDown" Cursor="Hand" MouseEnter="txtBlockPoruka_MouseEnter" MouseLeave="txtBlockPoruka_MouseLeave"/>
+
+
+        <Button x:Name="btnSignIn" Content="Sign In" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Background="#FFE9D5DA" BorderBrush="#FF80558C" FontFamily="Times New Roman" FontSize="18" FontStretch="Normal" Cursor="Hand" RenderTransformOrigin="0.5,-1.456" Click="btnSignIn_Click" Width="94" Height="25"/>
+        <TextBlock Text="Password:" Height="20" Width="72"  HorizontalAlignment="Left" Margin="75,206,0,0" VerticalAlignment="Top" Foreground="#FFD8BBC3" FontFamily="Times New Roman" FontSize="16" FontStretch="Normal" FontStyle="Normal"/>
+    </Grid>
+</Window>

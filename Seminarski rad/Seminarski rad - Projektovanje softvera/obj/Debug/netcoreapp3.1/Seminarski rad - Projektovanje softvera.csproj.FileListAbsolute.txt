@@ -1,0 +1,207 @@
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.exe
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.deps.json
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.json
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.dev.json
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.AssemblyReference.cache
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.cache
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.lref
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.g.resources
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfoInputs.cache
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfo.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CoreCompileInputs.cache
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.genruntimeconfig.cache
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Player.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Player.baml
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Fight.g.cs
+C:\Users\PD\source\repos\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Fight.baml
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.AssemblyReference.cache
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Fight.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Player.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.cache
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.lref
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\ninja\Desktop\Seminarski_rad_-_Projektovanje_softvera\Seminarski rad - Projektovanje softvera\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.exe
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.deps.json
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.json
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.dev.json
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.cache
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.lref
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.g.resources
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfoInputs.cache
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfo.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CoreCompileInputs.cache
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CopyComplete
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.genruntimeconfig.cache
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ClassCreation.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ClassCreation.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.AssemblyReference.cache
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\LogIn.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\LogIn.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\SignIn.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\SignIn.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\GameSetup.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\GameSetup.baml
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CombatUserControl.g.cs
+C:\Users\ninja\Desktop\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CombatUserControl.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.exe
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.deps.json
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.json
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.dev.json
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.AssemblyReference.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ClassCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CombatUserControl.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\GameSetup.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\LogIn.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\SignIn.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.lref
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ClassCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CombatUserControl.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\GameSetup.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\LogIn.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\SignIn.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.g.resources
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfoInputs.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfo.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CoreCompileInputs.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CopyComplete
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\DnDSeminarski\DnDSeminarski\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.genruntimeconfig.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.exe
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.deps.json
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.json
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.runtimeconfig.dev.json
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.AssemblyReference.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ClassCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CombatUserControl.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\GameSetup.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\LogIn.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\SignIn.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera_MarkupCompile.lref
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CharacterCreationMenu.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ClassCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\CombatUserControl.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\EnemyCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\GameSetup.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\ItemCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\LogIn.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\NPCCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\RaceCreation.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\SignIn.baml
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.g.resources
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfoInputs.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.AssemblyInfo.cs
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CoreCompileInputs.cache
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.csproj.CopyComplete
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.dll
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.pdb
+C:\Users\PD\Desktop\Projektovanje softvera - DnD\Seminarski rad\Seminarski rad\Seminarski rad - Projektovanje softvera\obj\Debug\netcoreapp3.1\Seminarski rad - Projektovanje softvera.genruntimeconfig.cache

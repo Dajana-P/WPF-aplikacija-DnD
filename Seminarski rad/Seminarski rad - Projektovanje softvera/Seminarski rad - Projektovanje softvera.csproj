@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Seminarski_rad___Projektovanje_softvera</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Ahri.png" />
+    <None Remove="Images\Blackfrost Sion.png" />
+    <None Remove="Images\Blade of the Ruined King.png" />
+    <None Remove="Images\Characters\Ahri.png" />
+    <None Remove="Images\Characters\Blackfrost Sion.png" />
+    <None Remove="Images\Characters\Elderwood Ornn.png" />
+    <None Remove="Images\Characters\Garen.png" />
+    <None Remove="Images\Characters\Star Guardian KaiSa.png" />
+    <None Remove="Images\Characters\Yuubee.png" />
+    <None Remove="Images\Deaths Dance.png" />
+    <None Remove="Images\Elderwood Ornn.png" />
+    <None Remove="Images\Items\Blade of the Ruined King.png" />
+    <None Remove="Images\Items\Bloodthirster.png" />
+    <None Remove="Images\Items\Deaths Dance.png" />
+    <None Remove="Images\Items\Elixir Of Power.png" />
+    <None Remove="Images\Items\Galeforce.png" />
+    <None Remove="Images\Items\Guardian Angel.png" />
+    <None Remove="Images\Items\Iceborn Gauntlet.png" />
+    <None Remove="Images\Items\Longsword.png" />
+    <None Remove="Images\Items\Mortal Reminder.png" />
+    <None Remove="Images\Items\Potion Of Healing.png" />
+    <None Remove="Images\Items\Rageblade.png" />
+    <None Remove="Images\Items\Runnans Hurricane.png" />
+    <None Remove="Images\Items\Rylais Crystal Scepter.png" />
+    <None Remove="Images\Items\Serpents Fang.png" />
+    <None Remove="Images\Star Guardian KaiSa.png" />
+    <None Remove="Images\Yuubee.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Characters\Garen.png" />
+    <Resource Include="Images\Items\Elixir Of Power.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Characters\Ahri.png" />
+    <Resource Include="Images\Characters\Blackfrost Sion.png" />
+    <Resource Include="Images\Characters\Elderwood Ornn.png" />
+    <Resource Include="Images\Characters\Star Guardian KaiSa.png" />
+    <Resource Include="Images\Characters\Yuubee.png" />
+    <Resource Include="Images\Items\Blade of the Ruined King.png" />
+    <Resource Include="Images\Items\Bloodthirster.png" />
+    <Resource Include="Images\Items\Deaths Dance.png" />
+    <Resource Include="Images\Items\Galeforce.png" />
+    <Resource Include="Images\Items\Guardian Angel.png" />
+    <Resource Include="Images\Items\Iceborn Gauntlet.png" />
+    <Resource Include="Images\Items\Longsword.png" />
+    <Resource Include="Images\Items\Mortal Reminder.png" />
+    <Resource Include="Images\Items\Potion Of Healing.png" />
+    <Resource Include="Images\Items\Rageblade.png" />
+    <Resource Include="Images\Items\Runnans Hurricane.png" />
+    <Resource Include="Images\Items\Rylais Crystal Scepter.png" />
+    <Resource Include="Images\Items\Serpents Fang.png" />
+  </ItemGroup>
+
+</Project>
